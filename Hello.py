@@ -35,3 +35,5 @@ print("I love Mobile Dev")
 
 # git add origin *token@url*
 #   if private
+
+# git push -u origin main
