@@ -26,3 +26,5 @@ print("I love CMSC 23")
 # git checkout ****
 # switches to **** branch
 
+# git merge ****
+#   merges current branch to **** branch
