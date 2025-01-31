@@ -7,5 +7,13 @@ print("Hello World")
 
 # git status
 
+# git add ****
+#   add specific file to stage
+
 # git add -A
-## add all files to stage
+#   add all files to stage
+
+# git commit -m "message toh"
+#   saves staged files with message
+
+# 
