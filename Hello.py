@@ -1,4 +1,5 @@
 print("Hello World")
+print("I love CMSC 23")
 
 # git config --global --unset user.name
 # git config --global --unset user.email
