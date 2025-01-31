@@ -16,4 +16,12 @@ print("Hello World")
 # git commit -m "message toh"
 #   saves staged files with message
 
-# 
+# git branch
+#   prints all branch
+
+# git branch ****
+#   creates branch
+
+# git checkout ****
+# switches to **** branch
+
